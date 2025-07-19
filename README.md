@@ -1,3 +1,3 @@
 # DNaH
 If the paper is accepted, the complete source code of the proposed DNaH framework will be released publicly.  
-The data preprocessing scripts can be found in the utils/tools directory of our project repository. The exact details of how the query and training sets are constructed in data/ directory of our project repositor.
+The data preprocessing scripts can be found in the utils/tools directory of our project repository. The exact details of how the query and training sets are constructed are provided in the data/ directory.
