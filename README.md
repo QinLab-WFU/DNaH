@@ -4,4 +4,4 @@ The data preprocessing scripts can be found in the utils/tools directory of our 
 
 ## Pretrained Model
 - Pretrained dataset: ImageNet-1k
-- [Checkpoint](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vt3p-weights/jx_nest_base-8bc41011.pth)
+- [Checkpoint](https://storage.googleapis.com/gresearch/nest-checkpoints/nest-b_imagenet/checkpoint)
